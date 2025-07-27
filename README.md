@@ -46,9 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Inspired by real estate price prediction challenges.
 - Thanks to the open-source community for tools and data science resources.
-
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/biomed-inventory-system](https://github.com/yourusername/biomed-inventory-system) 
